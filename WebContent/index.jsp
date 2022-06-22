@@ -4,12 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>どこぶつ</title>
 </head>
 <body>
 
-初コミット
-
+<h1>どうぶつへようこそ</h1>
 
 </body>
 </html>
